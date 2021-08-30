@@ -4,6 +4,6 @@ Github program studi Sains Komputasi ITB ini ditujukan agar mahasiswa dapat berb
 
 Note:
 untuk membuat repository baru mohon memberikan nama repository dengan format:
-Nama_NIM_Judul Penelitian
+Nama-NIM-Judul Penelitian
 
 Thanks!
